@@ -2,6 +2,12 @@
 
 @media only screen and (max-width : 420px) {
 
+// MobileLife Stuff
+#epay_company_logo
+{
+	display:none;
+}
+
 #epay_content_bottom_content_center
 {
 	width:180px;
