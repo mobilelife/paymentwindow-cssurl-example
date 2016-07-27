@@ -1,4 +1,10 @@
-﻿#epay_content_bottom_content_center
+// MobileLife Stuff
+#epay_company_logo
+{
+	display:none;
+}
+
+#epay_content_bottom_content_center
 {
 	width:180px;
 	background:none;
